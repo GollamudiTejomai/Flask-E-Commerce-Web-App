@@ -5,9 +5,9 @@ Ecommerce Web App using Flask and Python
 Install flask, Flask-login, SQLAlchemy, WTForms, pymysql, Blueprint
 
 Database Tables : 
-Users - to store user credentials... 
-Products - to store product details. 
-Implemented many to many association by creating new table user_products.
+- Users - to store user credentials... 
+- Products - to store product details. 
+- Implemented many to many association by creating new table user_products.
 
 Admin can view and delete users and products.
 
